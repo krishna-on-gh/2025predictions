@@ -1,2 +1,2 @@
-# 2025predictions
-Welcome. This repository will store all the predictions, data, bibliography, and methodology for the 2025 elections in VA.
+# 2025 Predictions
+Welcome. This repository will store all the predictions, data, bibliography, and methodology for my 2025 House of Delegrates (HoD) election predictions in VA.
