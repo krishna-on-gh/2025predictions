@@ -8,3 +8,7 @@ Welcome. This repository will store all the predictions, data, bibliography, and
 "VAHoD 2025 Data Project" = This excel model contains the data, equations, and everything that I used to actually put together and calculate 22 seats' projection margins. 
 
 "2025 Projections Bibliography Document" = This document contains the external sources that I used to supplement and build my model on. These sources cover material such as fundraising, previous election results, demographics, etc.
+
+"2025 Virginia HoD Projections Post-Election Report" = This document contains the post-election analysis on how the model performed up against actual results
+
+"ProjectedvsActual2025" = This excel file summarizes all 22 elections analyzed in the model, and compares them to the actual results, along with how alternate versions of the model would've fared
